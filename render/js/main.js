@@ -80,6 +80,7 @@ function setup() {
     loadData()
     setInterval(updateSentence, displaytime)
     adjustTextSize()
+    textStyle(BOLD)
 }
 
 function draw() {
