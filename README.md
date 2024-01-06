@@ -9,7 +9,7 @@ Animation for **DAF** and their apperance at the **Stuttgarter Staatsgalerie** 1
 ## Preview
 
 ![Screenshot rendering](images/render_screenshot_001.png)
-[https://lp45.net/dev/DAF](https://lp45.net/dev/DAF)
+[https://dev.lp45.net/DAF/](https://dev.lp45.net/DAF/)
 
 ## Shortcuts
 
